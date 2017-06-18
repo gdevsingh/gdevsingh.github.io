@@ -359,8 +359,8 @@ li {
     background: linear-gradient(135deg, #2c539e 0%, #3da4db 100%)
 }
 .m-next-project.is-ciak {
-    background: -webkit-linear-gradient(top, #5b2130 0%, #3e7d6c 100%);
-    background: linear-gradient(180deg, #5b2130 0%, #3e7d6c 100%)
+    background: -webkit-linear-gradient(top, #2196f3 0%, #ff5722 100%);
+    background: linear-gradient(180deg, #2196f3 0%, #ff5722 100%)
 }
 .m-next-project.is-hireboss {
     background: -webkit-linear-gradient(top, #5b2130 0%, #3e7d6c 100%);
@@ -1441,8 +1441,8 @@ canvas {
     }
 }
 .section-content.section-header.is-ciak {
-    background: -webkit-linear-gradient(top, #5b2130 0%, #3e7d6c 100%);
-    background: linear-gradient(180deg, #5b2130 0%, #3e7d6c 100%)
+    background: -webkit-linear-gradient(top,  #2196f3 0%, #ff5722 100%);
+    background: linear-gradient(180deg,  #2196f3 0%, #ff5722 100%)
 }
 .section-content.section-header.is-ciak .big-text {
     font-size: 59vw
