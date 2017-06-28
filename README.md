@@ -20,10 +20,11 @@ Screenshots
 <img src="img/screenshots/scrnsht3.PNG" height="200" alt="Screenshot"/><img src="img/screenshots/scrnsht4.PNG" height="200" alt="Screenshot"/><br>
 <center>
 <img src="img/screenshots/scrnsht5.PNG" height="200" alt="Screenshot"/>
-</center
+</center>
+
 
 Credits
--------
+---------
 [Nicholas Ruggeri][1]
 
 
