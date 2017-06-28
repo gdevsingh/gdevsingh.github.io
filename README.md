@@ -25,6 +25,6 @@ Screenshots
 Credits
 -------
 [Nicholas Ruggeri][1]
-_/\_
+
 
 [1]: https://github.com/nicholasruggeri
