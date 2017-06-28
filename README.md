@@ -1,4 +1,4 @@
-#Portfolio gdevsingh.github.io
+Portfolio gdevsingh.github.io
 ===================================
 
 This repository contains files for [my portfolio][1]
