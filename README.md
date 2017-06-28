@@ -21,3 +21,10 @@ Screenshots
 <center>
 <img src="img/screenshots/scrnsht5.PNG" height="200" alt="Screenshot"/>
 </center
+
+Credits
+-------
+[Nicholas Ruggeri][1]
+_/\_
+
+[1]: https://github.com/nicholasruggeri
