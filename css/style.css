@@ -1665,7 +1665,7 @@ canvas {
 .project__content-image-3bs {
     background: #ff5d2;
     background: -webkit-linear-gradient(315deg, #2196f3 0%, #fff 100%);
-    background: linear-gradient(135deg, #701212 0%, #fff 100%)
+    background: linear-gradient(135deg, #701212 0%, #424242 100%)
 }
 .project__content-image-weatherymood {
     background: #2b4a69;
