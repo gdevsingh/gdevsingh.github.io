@@ -3,6 +3,13 @@
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+<script type="text/javascript">
+$(window).load(function() {
+    $(".loader").fadeOut("slow");
+});
+</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -37,7 +44,7 @@
 </head>
 <link rel="stylesheet" href="styles.css">
 <body>
-<div class="se-pre-con"></div>
+<div class="loader"></div>
   <div class="content__wrapper">
     <section class="intro__wrapper">
       <div class="intro">
@@ -82,16 +89,8 @@
     ga('create', 'UA-55966172-10', 'auto');
     ga('send', 'pageview');
   </script>
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
 
-<script type="text/javascript">
-	$(window).load(function() {
-		// Animate loader off screen
-		$(".se-pre-con").fadeOut("slow");;
-	});
-</script>	
-  </script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
 </body>
 
 </html>
