@@ -85,7 +85,7 @@ scrollup
     width: 50px; 
     padding: 12px;
     border-radius: 100%;
-    background:#8f52e6;
+    background:#F3154E;
     z-index: 999;
 }
 .scrollup i{
@@ -963,9 +963,9 @@ a.settingBtn.active{
 }
 .grad_color a.color1 {
   background-color: #F30E4D;
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
   border-radius: 50%;
   height: 40px;
   margin-bottom: 10px;
