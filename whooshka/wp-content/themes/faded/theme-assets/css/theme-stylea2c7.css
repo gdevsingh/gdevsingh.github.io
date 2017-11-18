@@ -329,7 +329,6 @@ header .container [class^='col-'].col-header-img {
 header h1 {
     margin-bottom: 30px;
     text-align: left;
-    font-family: 'Roboto', sans-serif;
     font-weight: 200;
     font-size: 60px;
     line-height: 1.167;
@@ -3085,7 +3084,6 @@ End Blog Post
 404 Post
 ----------------------------------*/
 section h1.error_title {
-    font-family: 'Roboto', sans-serif;
     font-size: 200px;
     font-weight: 700;
     text-transform: uppercase;
