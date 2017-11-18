@@ -329,7 +329,7 @@ header .container [class^='col-'].col-header-img {
 header h1 {
     margin-bottom: 30px;
     text-align: left;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 200;
     font-size: 60px;
     line-height: 1.167;
@@ -416,7 +416,7 @@ header img.img-header-sm {
 
 header.blog-list,
 header.blog-detail {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     min-height: 300px;
 }
 
@@ -589,7 +589,7 @@ section {
 }
 
 section h2 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 36px;
@@ -2407,7 +2407,7 @@ Contact
 
 .sec-contact h3 {
     margin: 0 auto 30px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 18px;
@@ -3085,7 +3085,7 @@ End Blog Post
 404 Post
 ----------------------------------*/
 section h1.error_title {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 200px;
     font-weight: 700;
     text-transform: uppercase;
