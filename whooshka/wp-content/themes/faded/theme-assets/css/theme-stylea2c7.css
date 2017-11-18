@@ -428,7 +428,7 @@ header.blog-detail .container {
 header.blog-list .container [class^='col-'],
 header.blog-detail .container [class^='col-'] {
     padding-top: 0;
-    height: 120px;
+
 }
 
 header.blog-list h1,
@@ -440,9 +440,9 @@ header.blog-detail h1 {
     line-height: 70px;
     position: relative;
     left: -3px;
-    text-align: justify;
+    text-align: center;
   margin: 0 auto;
-  width: 30em;
+
     letter-spacing: -.96px;
 }
 
@@ -4172,6 +4172,8 @@ nav .navbar-header .navbar-toggle {
 
     .sec-get-app .wrapper-img img {
         width: 100%;
+        margin-right:-80%;
+        margin-top: -30%
     }
 
     .sec-blog-list {

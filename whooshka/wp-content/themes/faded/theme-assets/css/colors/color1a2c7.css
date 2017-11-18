@@ -5,9 +5,9 @@ Header
 header {
     position: relative;
     padding-top: 130px;
-    background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
     overflow: hidden;
 }
 header a.btn-white,header a.btn-transparent:hover,nav.bg-solid .navbar-collapse .navbar-right > li > a:focus {
