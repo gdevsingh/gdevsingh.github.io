@@ -5,9 +5,9 @@ Header
 header {
     position: relative;
     padding-top: 130px;
-    background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-    background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-    background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+    background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+    background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+    background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
     overflow: hidden;
 }
 header a.btn-white,header a.btn-transparent:hover,nav.bg-solid .navbar-collapse .navbar-right > li > a:focus {
@@ -57,14 +57,14 @@ overView
   color: #F30E4D;
 }
 .sec-overview [class^="col-"] hr {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
 }
 .sec-overview [class^="col-"]:hover hr {
-  background-image: -moz-linear-gradient(90deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(90deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(90deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(90deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(90deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(90deg, #F30E4D 40%, #f75e85 100%);
 }
 /***********************
 all vertical sections 
@@ -73,47 +73,47 @@ section.bg-white .hr, section.bg-grey .hr {
   background-image: url("../../images/hr.png");
 }
 section.bg-gradient-vertical {
-  background-image: -moz-linear-gradient(90deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(90deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(90deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(90deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(90deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(90deg, #F30E4D 40%, #f75e85 100%);
 }
 section#features .lnr {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
   color:#F30E4D;
 }
 .sec-screenshots .filter-btns a:hover{
     color:#F30E4D!important;
 }
 .sec-screenshots .screenshots .screenshot::before {
-  background-image: -moz-linear-gradient(90deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(90deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(90deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(90deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(90deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(90deg, #F30E4D 40%, #f75e85 100%);
 }
 section.bg-gradient-horizontal {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
 }
 section#screenshots .filter-btn.active {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
   color: #F30E4D;
 }
 .sec-screenshots .screenshots .owl-controls .owl-pagination .owl-page {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
 }
 /************
 Testimonial
 *************/
 .sec-testimonial .owl-controls .owl-pagination .owl-page {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
 }
 .sec-testimonial .media .media-body .fa-quote-left,.sec-testimonial .media .media-body i[class*="fa-star"] {
   color: #F30E4D;
@@ -122,9 +122,9 @@ Testimonial
 Team
 *************/
 .sec-team .wrapper a i {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
 }
 
 /************
@@ -137,9 +137,9 @@ pricing
       color: #F30E4D!important;
 }
 .sec-pricing [class^="col-"] .wrapper a {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
   color:#F30E4D;
 }
 .sec-pricing .highlighted[class^="col-"] .wrapper a,
@@ -154,28 +154,28 @@ Latest post
   color: #F30E4D;
 }
 .sec-blog .container > a, .sec-blog-list .container > a {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
   color: #F30E4D; 
 }
 .sec-blog-list .pagination a::after {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
 }
 .sec-blog-post .blog-submit form button {
-  background-image:-moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image:-webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image:-ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image:-moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image:-webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image:-ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
 }
 /************
 Get apps
 *************/
 .sec-get-app a::after {
-  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
-  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #8e54e9 100%);
+  background-image: -moz-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -ms-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
+  background-image: -webkit-linear-gradient(0deg, #F30E4D 40%, #f75e85 100%);
 }
 /************
 Section contact
