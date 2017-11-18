@@ -235,11 +235,11 @@ nav.bg-solid {
     -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
-    color: #725ce6;
+    color: #F3154E;
 }
 
 nav.bg-solid .navbar-header .navbar-toggle .icon-bar {
-    background-color: #725ce6;
+    background-color: #F3154E;
 }
 
 nav.bg-solid .navbar-header .navbar-brand img.logo-blue {
@@ -3489,7 +3489,7 @@ Styles for smaller devices
     }
 
     nav.bg-solid .navbar-collapse .navbar-right > li > a:hover {
-        border-bottom: 2px solid #725ce6;
+        border-bottom: 2px solid #F3154E;
     }
 
     nav.bg-solid .navbar-collapse .navbar-right > li > a:focus {
@@ -3497,7 +3497,7 @@ Styles for smaller devices
     }
 
     nav.bg-solid .navbar-collapse .navbar-right > li.active > a {
-        border-bottom: 2px solid #725ce6;
+        border-bottom: 2px solid #F3154E;
     }
 
     .sec-testimonial {
