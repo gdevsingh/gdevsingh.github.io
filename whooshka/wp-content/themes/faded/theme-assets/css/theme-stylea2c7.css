@@ -271,9 +271,9 @@ header {
     position: relative;
     padding-top: 130px;
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
     overflow: hidden;
 }
 
@@ -666,9 +666,9 @@ section.bg-grey {
 
 section.bg-gradient-horizontal {
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
 }
 
 section.bg-gradient-horizontal.solid {
@@ -678,9 +678,9 @@ section.bg-gradient-horizontal.solid {
 
 section.bg-gradient-vertical {
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(90deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(90deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(90deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(90deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(90deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(90deg, #F3154E 40%, #F3154E 100%);
 }
 
 section.bg-gradient-vertical.solid {
@@ -764,9 +764,9 @@ section.sec-overview .warpper-outer hr {
     width: 30px;
     height: 2px;
     border-top: 0;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
     -webkit-transition: all 0.25s ease;
     -moz-transition: all 0.25s ease;
     -ms-transition: all 0.25s ease;
@@ -798,9 +798,9 @@ section.sec-overview .warpper-outer:hover .wrapper {
 }
 
 section.sec-overview .warpper-outer:hover hr {
-    background-image: -moz-linear-gradient(90deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(90deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(90deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(90deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(90deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(90deg, #F3154E 40%, #F3154E 100%);
 }
 section.sec-overview .warpper-outer span.overview-img{
     color: #F3154E;
@@ -944,9 +944,9 @@ Features
     -moz-border-radius: 50%;
     border-radius: 50%;
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
 }
 
 .sec-features .ficons::before {
@@ -1072,9 +1072,9 @@ Screenshots
 
 .sec-screenshots .filter-btn.active {
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
     color: #F3154E;
 }
 
@@ -1112,9 +1112,9 @@ Screenshots
     -ms-transform: translate(-50%, -50%);
     -o-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    background-image: -moz-linear-gradient(90deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(90deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(90deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(90deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(90deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(90deg, #F3154E 40%, #F3154E 100%);
     width: 170px;
     height: 380px;
     line-height: 420px;
@@ -1179,9 +1179,9 @@ Screenshots
     -moz-border-radius: 50%;
     border-radius: 50%;
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
 }
 
 .sec-screenshots .screenshots .owl-controls .owl-pagination .owl-page + .owl-page {
@@ -1425,7 +1425,7 @@ Testimonial
 
 .sec-testimonial .media .media-body i[class*="fa-star"] {
     letter-spacing: -3px;
-    color: #f75e85;
+    color: #F3154E;
 }
 
 .sec-testimonial .media .media-body h6 {
@@ -1463,9 +1463,9 @@ Testimonial
     -moz-border-radius: 50%;
     border-radius: 50%;
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
 }
 
 .sec-testimonial .owl-controls .owl-pagination .owl-page + .owl-page {
@@ -1595,9 +1595,9 @@ Team
     margin-right: 8px;
     font-size: 16px;
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
     color: #b2b2b2;
     -webkit-transition: all 0.25s ease;
     -moz-transition: all 0.25s ease;
@@ -1671,7 +1671,7 @@ Pricing
 .sec-pricing [class^="col-"] .wrapper h3,
 .sec-pricing [class^="col-"] .wrapper h1 {
     font-weight: 700;
-    color: #f75e85;
+    color: #F3154E;
 }
 
 .sec-pricing [class^="col-"] .wrapper h3 {
@@ -1682,7 +1682,7 @@ Pricing
 }
 
 .sec-pricing [class^="col-"] .wrapper .pricing-img {
-    color: #f75e85;
+    color: #F3154E;
 }
 
 .sec-pricing [class^="col-"] .wrapper .pricing-img + hr {
@@ -1728,10 +1728,10 @@ Pricing
     -moz-border-radius: 25px;
     border-radius: 25px;
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    color: #f75e85;
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    color: #F3154E;
 }
 
 .sec-pricing [class^="col-"] .wrapper a::before {
@@ -2170,9 +2170,9 @@ Blog
     -moz-border-radius: 25px;
     border-radius: 25px;
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
     text-transform: uppercase;
     color: #F3154E;
 }
@@ -2364,9 +2364,9 @@ Get App
     height: 100%;
     width: 100%;
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
@@ -2710,9 +2710,9 @@ Blog List
     -moz-border-radius: 50%;
     border-radius: 50%;
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
 }
 
 .sec-blog-list .pagination a + a {
@@ -3050,9 +3050,9 @@ Blog Post
 .sec-blog-post .blog-submit form button {
     background: none;
     background-color: #F3154E!important;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%)!important;
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%)!important;
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%)!important;
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%)!important;
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%)!important;
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%)!important;
     border: none;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
@@ -3091,9 +3091,9 @@ section h1.error_title {
 }
 section.not-found{
     background-color: #F3154E;
-    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+    background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+    background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
     overflow: hidden;
     position: relative;
     padding: 260px 0px;
@@ -3961,9 +3961,9 @@ nav .navbar-header .navbar-toggle {
         -moz-box-shadow: none;
         box-shadow: none;
         background-color: #F3154E;
-        background-image: -moz-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-        background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
-        background-image: -ms-linear-gradient(0deg, #F3154E 40%, #f75e85 100%);
+        background-image: -moz-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+        background-image: -webkit-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
+        background-image: -ms-linear-gradient(0deg, #F3154E 40%, #F3154E 100%);
     }
 
     header {
