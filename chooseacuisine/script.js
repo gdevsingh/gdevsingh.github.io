@@ -22,25 +22,27 @@ $(document).ready(function() {
     $body.css("background-color", "hsl(" + hue + ", 100%, 50%)");
     
     });
-    $btn.click(function(){ 
-      
-      if($toggle==0){
-        $toggle=1;
-        $svg.css({
-          '-webkit-animation-play-state': 'paused',
-          'animation-play-state': 'paused'
-      });
-      }
-      else{
-        $toggle=0;
-        $svg.css({
-          'height': '100%',
-          'width': '100%',
-          'position': 'relative',
-          'top': '-1rem',
-          '-webkit-animation':' pop-out .05s ease-in-out infinit',
-          'animation': 'pop-out .05s ease-in-out infinite'
-      });
+    $body.keyup(function(e){ 
+      if(e.keyCode == 32){
+        
+        if($toggle==0){
+          $toggle=1;
+          $svg.css({
+            '-webkit-animation-play-state': 'paused',
+            'animation-play-state': 'paused'
+          });
+        }
+        else{
+          $toggle=0;
+          $svg.css({
+            'height': '100%',
+            'width': '100%',
+            'position': 'relative',
+            'top': '-1rem',
+            '-webkit-animation':' pop-out .05s  infinit',
+            'animation': 'pop-out .05s infinite'
+          });
+        }
       }
   });
   });
